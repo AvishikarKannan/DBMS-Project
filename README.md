@@ -1,5 +1,4 @@
-# Creating the README content and saving it as a text file for download
-readme_content = """
+
 # Attendance Management System 📚💻
 
 ## Overview 🌟
@@ -72,11 +71,3 @@ This system leverages facial recognition to mark student attendance. It integrat
 ## Author 👨‍💻
 Avishikar Kannan N.
 
-"""
-
-# Save to file
-readme_file_path = "/mnt/data/attendance_management_system_readme.txt"
-with open(readme_file_path, "w") as file:
-    file.write(readme_content)
-
-readme_file_path
