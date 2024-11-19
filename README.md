@@ -70,7 +70,7 @@ This system leverages facial recognition to mark student attendance. It integrat
 - Integrate the system with an online student portal.
 
 ## Author 👨‍💻
-Harish M.
+Avishikar Kannan N.
 
 """
 
